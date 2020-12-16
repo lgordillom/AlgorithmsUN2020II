@@ -1,0 +1,5 @@
+Algorithmic Toolbox
+por University of California San Diego & National Research University Higher School of Economics
+Porcentaje que completé: 56%
+
+En este curso aprendí primero, que es un algoritmo y por qué estudiarlos, como testear un código, maneras de optimizar problemas con casos específicos como Fibonacci, hallar el máximo común divisor, entre otros. También aprendí del tiempo de ejecución de los algoritmos y notación asintótica, y además, de algoritmos ‘greedy’. 
